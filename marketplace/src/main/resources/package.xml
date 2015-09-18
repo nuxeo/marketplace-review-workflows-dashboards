@@ -1,0 +1,27 @@
+<package type="addon" name="nuxeo-review-workflows-dashboards" version="@VERSION@">
+  <title>Nuxeo Review Workflows Dashboards</title>
+  <description>
+    <p>Nuxeo addon to provide data visualization dashboards for Review Workflows.</p>
+  </description>
+  <home-page>http://doc.nuxeo.com/</home-page>
+  <vendor>Nuxeo</vendor>
+  <installer restart="true" />
+  <uninstaller restart="true" />
+  <!-- <hotreload-support>false</hotreload-support> -->
+  <!-- <require-terms-and-conditions-acceptance>false</require-terms-and-conditions-acceptance> -->
+  <nuxeo-validation>none</nuxeo-validation>
+  <!-- <nuxeo-validation>inprocess</nuxeo-validation> -->
+  <!-- <nuxeo-validation>primary_validation</nuxeo-validation> -->
+  <!--<nuxeo-validation>nuxeo_certified</nuxeo-validation>-->
+  <!-- <production-state>proto</production-state> -->
+  <production-state>testing</production-state>
+  <!-- <production-state>production_ready</production-state> -->
+  <supported>false</supported>
+  <platforms>
+    <platform>cap-@DISTRIB_VERSION@</platform>
+    <platform>cap-@DISTRIB_VERSION@-HF*</platform>
+  </platforms>
+  <license>LGPL 2.1</license>
+  <license-url>http://www.gnu.org/licenses/lgpl-2.1.html</license-url>
+  <visibility>PUBLIC</visibility>
+</package>
