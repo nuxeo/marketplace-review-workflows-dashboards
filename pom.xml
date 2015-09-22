@@ -26,12 +26,6 @@
         <version>${project.version}</version>
         <type>zip</type>
       </dependency>
-      <!-- move to addons POM -->
-      <dependency>
-        <groupId>org.nuxeo.ecm.review.workflows.dashboards</groupId>
-        <artifactId>nuxeo-review-workflows-dashboards</artifactId>
-        <version>7.4-SNAPSHOT</version>
-      </dependency>
     </dependencies>
   </dependencyManagement>
 
