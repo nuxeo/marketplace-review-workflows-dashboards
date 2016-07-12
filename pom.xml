@@ -3,14 +3,14 @@
   <parent>
     <groupId>org.nuxeo.ecm.distribution</groupId>
     <artifactId>nuxeo-distribution</artifactId>
-    <version>8.3-SNAPSHOT</version>
+    <version>8.3</version>
   </parent>
 
   <groupId>org.nuxeo.marketplace.review.workflows.dashboards</groupId>
   <artifactId>parent</artifactId>
   <packaging>pom</packaging>
   <name>Nuxeo Review Workflows Dashboards Marketplace package</name>
-  <version>1.1.2-SNAPSHOT</version>
+  <version>1.1.2</version>
 
   <modules>
     <module>marketplace</module>
