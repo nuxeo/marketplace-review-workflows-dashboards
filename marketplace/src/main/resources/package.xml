@@ -1,7 +1,7 @@
 <package type="addon" name="nuxeo-review-workflows-dashboards" version="@VERSION@">
   <title>Nuxeo Review Workflows Dashboards</title>
   <description>
-    <p>Nuxeo addon to provide data visualization dashboards for Review Workflows.</p>
+    <p>The Review Workflows Dashboard addon provides data visualization dashboards for default review workflows on the JSF UI.</p>
   </description>
   <home-page>http://doc.nuxeo.com/</home-page>
   <vendor>Nuxeo</vendor>
